@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-lp0ukr.cuankita.space/sitemap.xml
